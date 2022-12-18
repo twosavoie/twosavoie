@@ -1,3 +1,3 @@
 Hi! I'm Lisa Savoie! 
 
-I'm a freelance developer and Instructor at Skillcrush. 🙂
+I'm an Instructor at Skillcrush and a freelance frontend developer. 🙂
