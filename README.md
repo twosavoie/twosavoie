@@ -8,11 +8,13 @@ Interested in seeing more of my work? Check out my site, [LS Codes][1].
 <a href="https://www.linkedin.com/in/lisasavoie/" target="_blank" class="social-media-icons">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://twitter.com/twosavoie" target="_blank" class="social-media-icons">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
-<style>
-    .social-media-icons {
-        padding-left: 5px;
-    }
-</style>
+<foreignObject>
+    <style>
+        .social-media-icons {
+            padding-left: 5px;
+        }
+    </style>
+</foreignObject>
 
 
 
