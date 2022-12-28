@@ -32,8 +32,14 @@ I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂
 <a href="https://github.com/twosavoie/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=twosavoie&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
+<a href="https://github.com/twosavoie/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=twosavoie&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
 <a href="https://github.com/twosavoie/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/twosavoie/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
 
 
