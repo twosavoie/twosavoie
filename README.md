@@ -24,7 +24,17 @@ I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white)
 
-[![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=twosavoie)](https://github.com/twosavoie/github-readme-stats)
+[![Lisa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=twosavoie&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/twosavoie/github-readme-stats#gh-dark-mode-only)
+[![Lisa's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=twosavoie&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/twosavoie/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact)](https://github.com/twosavoie/github-readme-stats)
+
+<a href="https://github.com/twosavoie/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=twosavoie&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/twosavoie/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=twosavoie&repo=convoychat" />
+</a>
 
 
 [1]: https://lscodes.com
