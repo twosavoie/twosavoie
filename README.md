@@ -30,10 +30,10 @@ I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact)](https://github.com/twosavoie/github-readme-stats)
 
 <a href="https://github.com/twosavoie/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=twosavoie&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=twosavoie&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/twosavoie/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=twosavoie&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact" />
 </a>
 
 
