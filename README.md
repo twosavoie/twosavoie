@@ -1,13 +1,13 @@
 # Hi, I'm Lisa Savoie! 
 
-I'm a developer instructor at [Skillcrush](https://skillcrush.com "This is where I work") and a freelance front-end developer. 🙂 
+I'm a developer instructor at [Skillcrush](https://skillcrush.com "This is where I work"). Skillcrush is the bootcamp where I learned to code. I was inspired by all the great instructors I came in contact with and I'm so proud to count myself as one of them now! 
 
-Interested in seeing more of my work? Check out my site, [LS Codes][1].
+I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂 
 
 <a href="https://www.linkedin.com/in/lisasavoie/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://twitter.com/twosavoie">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
-## See my work
+## My work
 <a href="https://lscodes.com">![LSCodes](https://img.shields.io/badge/💻_LS_Codes-76cb01?style=for-the-badge&logo=LSCodes&logoColor=white)</a>
 <a href="https://github.com/twosavoie?tab=repositories">![GitHub repos](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://codepen.io/your-work/">![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)</a>
@@ -19,6 +19,8 @@ Interested in seeing more of my work? Check out my site, [LS Codes][1].
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=Ruby_on_Rails&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white)
 
