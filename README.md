@@ -1,6 +1,6 @@
 # Hi, I'm Lisa Savoie! 
 
-I'm a developer instructor at [Skillcrush](https://skillcrush.com "This is where I work"). Skillcrush is the bootcamp where I learned to code. I was inspired by all the great instructors I came in contact with and I'm so proud to count myself as one of them now! 
+I'm a developer instructor at [Skillcrush](https://skillcrush.com "This is where I work"), the bootcamp where I learned to code. I was inspired by all the great instructors I came in contact with and I'm so proud to count myself as one of them now! 
 
 I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂 
 
@@ -22,7 +22,7 @@ I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=Ruby_on_Rails&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white)
 
 
 [1]: https://lscodes.com
