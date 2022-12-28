@@ -5,7 +5,9 @@ I'm an Instructor at [Skillcrush](https://skillcrush.com "This is where I work")
 Interested in seeing more of my work? Check out my site, [LS Codes][1].
 
 <a href="https://github.com/twosavoie" target=
-"_blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]</a>
+"_blank">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/lisasavoie/" target=
+"_blank">![github](https://img.shields.io/badge/LinkedIn-0A6632?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 
 
 
