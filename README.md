@@ -24,6 +24,8 @@ I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white)
 
+[![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=twosavoie)](https://github.com/twosavoie/github-readme-stats)
+
 
 [1]: https://lscodes.com
 
