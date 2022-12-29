@@ -1,8 +1,10 @@
-# Hi, I'm Lisa Savoie! 
+# Hi, I'm Lisa Savoie! 🙂 
 
 I'm a developer instructor at [Skillcrush](https://skillcrush.com "This is where I work"), the bootcamp where I learned to code. I was inspired by all the great instructors I came in contact with and I'm so proud to count myself as one of them now! I love helping people learn the skills they need to reach their goals. 
 
-I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂 
+I'm also a freelance front-end developer and owner of [LS Codes][1]. 
+
+*If you're interested in how I customized by profile, this [blog post][2] has a list of resources.
 
 <a href="https://www.linkedin.com/in/lisasavoie/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://twitter.com/twosavoie">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
@@ -32,6 +34,22 @@ I'm also a freelance front-end developer and owner of [LS Codes][1]. 🙂
 
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact&theme=tokyonight#gh-dark-mode-only&langs_count=10)](https://github.com/twosavoie/github-readme-stats#gh-dark-mode-only)
 [![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact&theme=default#gh-light-mode-only&langs_count=10)](https://github.com/twosavoie/github-readme-statsdefault#gh-light-mode-only)
+
+
+<a href="https://github.com/twosavoie/github-readme-stats#gh-dark-mode-only">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=twosavoie&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/twosavoie/github-readme-statsdefault#gh-light-mode-only">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=twosavoie&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
+<a href="https://github.com/twosavoie/github-readme-stats#gh-dark-mode-only">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact&theme=tokyonight#gh-dark-mode-only&langs_count=10" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&theme=tokyonight#gh-dark-mode-only&langs_count=10" />
+</a>
+<a href="https://github.com/twosavoie/github-readme-statsdefault#gh-light-mode-only">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact&theme=default#gh-light-mode-only&langs_count=10" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&theme=default#gh-light-mode-only&langs_count=10" />
+</a>
 
 
 
