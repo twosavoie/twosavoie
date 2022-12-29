@@ -22,7 +22,7 @@ I'm also a freelance front-end developer and owner of [LS Codes][1].
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/RubyonRails-CC0000?style=for-the-badge&logo=Ruby_on_Rails&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=RubyonRails&logoColor=white)
 
 ## Skills
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
