@@ -61,8 +61,10 @@ I'm also a freelance front-end developer and owner of [LS Codes][1].
 <!--  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&theme=default#gh-light-mode-only&langs_count=10" /> -->
 </a>
 
+**Thanks to [Anurag Hazra and their GitHub repo][3] that shows how to add and customize the GitHub Readme Stats Cards.*
 
 
 [1]: https://lscodes.com
 [2]: https://lscodes.com/my-github-profile/
+[3]: https://github.com/anuraghazra/github-readme-stats
 
