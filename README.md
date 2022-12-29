@@ -14,7 +14,7 @@ I'm also a freelance front-end developer and owner of [LS Codes][1].
 <a href="https://twitter.com/twosavoie">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 ## My work
-<a href="https://lscodes.com">![LSCodes](https://img.shields.io/badge/👩‍💻_LS_Codes-0f3b67?style=for-the-badge&logo=LSCodes&logoColor=#75cb00)</a>
+<a href="https://lscodes.com">![LSCodes](https://img.shields.io/badge/👩‍💻__LS_Codes-0f3b67?style=for-the-badge&logo=LSCodes&logoColor=#75cb00)</a>
 <a href="https://github.com/twosavoie?tab=repositories">![GitHub repos](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://codepen.io/your-work/">![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)</a>
 <a href="https://codesandbox.io/dashboard/recent?workspace=106a991f-8f18-4043-a0d5-e8c080beb7fe">![CodePen](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=CodeSandbox&logoColor=white)</a>
