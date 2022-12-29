@@ -6,7 +6,7 @@ I'm a developer instructor at [Skillcrush](https://skillcrush.com "This is where
 I'm also a freelance front-end developer and owner of [LS Codes][1]. 
 
 ### My favorites
-🙂 😎 🙌 👍 _ 👩‍💻 👩‍🌾 👩‍🍳 👩‍🏫 _ 🚶‍♀️ 🎾 🏊‍♀️ 🚲 _ 🍒 🍲 🥗	🍵 🍦 _ 😂 ⚔️ 🔍	🧰 📖 _ 🌃	🌱 🌷  	 					   		
+🙂 😎 🙌 👍 &nbsp; 👩‍💻 👩‍🌾 👩‍🍳 👩‍🏫 &nbsp; 🚶‍♀️ 🎾 🏊‍♀️ 🚲 &nbsp; 🍒 🍲 🥗	🍵 🍦 &nbsp; 😂 ⚔️ 🔍	🧰 📖 &nbsp; 🌃	🌱 🌷  	 					   		
 
 **If you're interested in how I customized my profile, this [blog post][2] has a list of resources.*
 
