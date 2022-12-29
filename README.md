@@ -14,6 +14,7 @@ I'm also a freelance front-end developer and owner of [LS Codes][1].
 <a href="https://github.com/twosavoie?tab=repositories">![GitHub repos](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://codepen.io/your-work/">![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)</a>
 <a href="https://codesandbox.io/dashboard/recent?workspace=106a991f-8f18-4043-a0d5-e8c080beb7fe">![CodePen](https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=CodeSandbox&logoColor=white)</a>
+<a href="https://replit.com/@twosavoie">![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=Replit&logoColor=white)</a>
 
 ## Languages
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
