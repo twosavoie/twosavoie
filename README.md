@@ -54,15 +54,13 @@ I'm also a freelance front-end developer and owner of [LS Codes][1].
 
 <a href="https://github.com/twosavoie/github-readme-stats#gh-dark-mode-only">
   <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact&theme=tokyonight#gh-dark-mode-only&langs_count=10" />
-  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&theme=tokyonight#gh-dark-mode-only&langs_count=10" />
+<!--  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&theme=tokyonight#gh-dark-mode-only&langs_count=10" /> -->
 </a>
-
-<!--
 <a href="https://github.com/twosavoie/github-readme-statsdefault#gh-light-mode-only">
   <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact&theme=default#gh-light-mode-only&langs_count=10" />
-  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&theme=default#gh-light-mode-only&langs_count=10" />
+<!--  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&theme=default#gh-light-mode-only&langs_count=10" /> -->
 </a>
--->
+
 
 
 [1]: https://lscodes.com
