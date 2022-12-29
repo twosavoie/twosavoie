@@ -35,6 +35,8 @@ I'm also a freelance front-end developer and owner of [LS Codes][1].
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact&theme=tokyonight#gh-dark-mode-only&langs_count=10)](https://github.com/twosavoie/github-readme-stats#gh-dark-mode-only)
 [![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=twosavoie&layout=compact&theme=default#gh-light-mode-only&langs_count=10)](https://github.com/twosavoie/github-readme-statsdefault#gh-light-mode-only)
 
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=twosavoie&theme=tokyonight")](https://github.com/twosavoie/github-readme-stats#gh-dark-mode-only)
+
 
 
 
