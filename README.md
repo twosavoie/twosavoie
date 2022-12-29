@@ -1,5 +1,6 @@
 # Hi, I'm Lisa Savoie! 🙂 
 
+## About me
 I'm a developer instructor at [Skillcrush](https://skillcrush.com "This is where I work"), the bootcamp where I learned to code. I was inspired by all the great instructors I came in contact with and I'm so proud to count myself as one of them now! I love helping people learn the skills they need to reach their goals. 
 
 I'm also a freelance front-end developer and owner of [LS Codes][1]. 
