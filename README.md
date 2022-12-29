@@ -5,6 +5,9 @@ I'm a developer instructor at [Skillcrush](https://skillcrush.com "This is where
 
 I'm also a freelance front-end developer and owner of [LS Codes][1]. 
 
+### My favorites
+🙂 😎 🙌 👍  👩‍💻 👩‍🌾 👩‍🍳 👩‍🏫  🚶‍♀️ 🎾 🏊‍♀️ 🚲  🍒 🍲 🥗	🍵 🍦  ⚔️	🧰 📖  🌃	🌱 🌷  	 					   		
+
 **If you're interested in how I customized my profile, this [blog post][2] has a list of resources.*
 
 <a href="https://www.linkedin.com/in/lisasavoie/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
