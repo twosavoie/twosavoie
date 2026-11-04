@@ -1,7 +1,7 @@
 # Hi, I'm Lisa Savoie! 🙂 
 
 ## About me
-I was a developer instructor at [Skillcrush](https://skillcrush.com "This is where I work"), the bootcamp where I learned to code. I was inspired by all the great instructors I came in contact with and I was so proud to count myself as one of them now! I loved helping people learn the skills they needed to reach their goals. Currently I code as a hobby — building websites and apps to learn more about the coding languages I enjoy. 
+I was a developer instructor at [Skillcrush](https://skillcrush.com "This is where I work"), the bootcamp where I learned to code. I was inspired by all the great instructors I came in contact with and I was so proud to count myself as one of them! I loved helping people learn the skills they needed to reach their goals. Currently I code as a hobby — building websites and apps to learn more about the coding languages I enjoy. 
 
 ### My favorites
 🙂 😎 🙌 👍  &nbsp; &nbsp; 👩‍💻 👩‍🌾 👩‍🍳 👩‍🏫 👩‍🎓 &nbsp; &nbsp;🚶‍♀️ 🎾 🏊‍♀️ 🚲 &nbsp; &nbsp;🍒 🍲 🥗 🥖	🍵 🍦 &nbsp; &nbsp; 😂 💥 🔍 📚 &nbsp; &nbsp; 🌷  🌃	 					   		
