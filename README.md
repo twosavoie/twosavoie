@@ -9,7 +9,6 @@ I was a developer instructor at [Skillcrush](https://skillcrush.com "This is whe
 **If you're interested in how I customized my profile, this [blog post][2] has a list of resources.*
 
 <a href="https://www.linkedin.com/in/lisasavoie/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
-<a href="https://twitter.com/twosavoie">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 ## My work
 <a href="https://github.com/twosavoie?tab=repositories">![GitHub repos](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
